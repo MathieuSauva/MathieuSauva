@@ -18,14 +18,7 @@ Hello, I am passionate about computer science and I am currently a student in th
 <p><img align=left src="https://github-readme-stats.vercel.app/api?username=MathieuSauva&show_icons=true&theme=tokyonight" alt="github stats" width="400" /></p>
 <p>&nbsp;<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=MathieuSauva&theme=tokyonight" alt="mystreak" alt="ovi" width="400" /></p>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+<br><br><br><br><br><br><br>
 
 <h1 align="center">
   🎯 Learning skills 🎯

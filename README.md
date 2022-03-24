@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Computer science, a real passion](https://github.com/MathieuSauva/MathieuSauva/blob/main/github-banner.png)
+![Computer science, a real passion](https://github.com/MathieuSauva/MathieuSauva/blob/main/banner.png)
 
 <!--
 **MathieuSauva/MathieuSauva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

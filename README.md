@@ -9,6 +9,8 @@
 Hello, I am passionate about computer science and I am currently a student in this field. You will find here my personal and professional/school projects.
 </h3></br>
 
+---
+
 <h1 align="center">
   📊 My statistics 📊
 </h1> 
@@ -19,6 +21,8 @@ Hello, I am passionate about computer science and I am currently a student in th
 <p>&nbsp;<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=MathieuSauva&theme=tokyonight" alt="mystreak" alt="ovi" width="400" /></p>
 
 <br><br><br><br><br><br><br>
+
+---
 
 <h1 align="center">
   🎯 Learning skills 🎯
@@ -35,6 +39,8 @@ Hello, I am passionate about computer science and I am currently a student in th
   <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/ubuntu--v1.png" alt="ubuntu" width="60" height="60"/> </a> 
    <img src="https://img.icons8.com/plasticine/344/bash.png" alt="bash" width="60" height="60"/>
 </p></br>
+
+---
 
 <h1 align='center'>
 📱 Connect with me 💬

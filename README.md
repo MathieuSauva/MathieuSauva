@@ -15,16 +15,20 @@ Hello, I am passionate about computer science and I am currently a student in th
 
 <p align='center'><img src='https://www.zupimages.net/up/22/12/ylsd.png' height='200' width='220'></p>
 
-<p align='center'> 
+<p><img align=left src="https://github-readme-stats.vercel.app/api?username=MathieuSauva&show_icons=true&theme=tokyonight" alt="github stats" width="400" /></p>
+<p>&nbsp;<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=MathieuSauva&theme=tokyonight" alt="mystreak" alt="ovi" width="400" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathieuSauva&show_icons=true&theme=tokyonight) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathieuSauva&theme=tokyonight)](https://git.io/streak-stats) 
-
-
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 
 <h1 align="center">
-  🧰 Languages and tools 🧰
+  🎯 Learning skills 🎯
 </h1> 
 <p align='center'><img src='https://www.zupimages.net/up/22/12/ei7c.png' height='300' width='340'></p>
 

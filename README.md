@@ -44,7 +44,7 @@ Hello, I am passionate about computer science and I am currently a student in th
 <img src="https://www.zupimages.net/up/22/12/u0he.png" height='70' width='1000'>
 
 <h1 align='center'>
-📱 Connect with me 💬
+📱 Wanna chat ? 💬
 </h1>
 <p align='center'><img src='https://www.zupimages.net/up/22/12/i8bb.png' height='280' width='270'></p>
 
@@ -55,4 +55,4 @@ Hello, I am passionate about computer science and I am currently a student in th
 
 ------
 Credit: [MathieuSauva](https://github.com/MathieuSauva) <br>
-Last Edited on: 24/03/22
+Last Edited on: 25/03/22

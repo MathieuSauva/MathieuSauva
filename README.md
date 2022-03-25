@@ -9,7 +9,7 @@
 Hello, I am passionate about computer science and I am currently a student in this field. You will find here my personal and professional/school projects.
 </h3></br>
 
-<img src="https://www.zupimages.net/up/22/12/u0he.png" height='70' width='1000'>
+<img src="https://www.wilsoninfo.com/lines/blue-collider.gif" width="1000" height="2">
 
 <h1 align="center">
   📊 My statistics 📊
@@ -22,7 +22,7 @@ Hello, I am passionate about computer science and I am currently a student in th
 
 <br><br><br><br><br><br><br>
 
-<img src="https://www.zupimages.net/up/22/12/u0he.png" height='70' width='1000'>
+<img src="https://www.wilsoninfo.com/lines/blue-collider.gif" width="1000" height="2">
 
 <h1 align="center">
   🎯 Learning skills 🎯
@@ -41,7 +41,8 @@ Hello, I am passionate about computer science and I am currently a student in th
   <img src="https://img.icons8.com/plasticine/344/bash.png" alt="bash" width="60" height="60"/>
 </p></br>
 
-<img src="https://www.zupimages.net/up/22/12/u0he.png" height='70' width='1000'>
+
+<img src="https://www.wilsoninfo.com/lines/blue-collider.gif" width="1000" height="2">
 
 <h1 align='center'>
 📱 Wanna chat ? 💬

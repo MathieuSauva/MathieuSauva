@@ -27,8 +27,6 @@ Hello, I am passionate about computer science and I am currently a student in th
 <h1 align="center">
   🎯 Learning skills 🎯
 </h1> 
-<p align='center'><img src='https://www.zupimages.net/up/22/12/ei7c.png' height='300' width='340'></p>
-
 <p align="center"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="cplusplus" width="60" height="60"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/python--v1.png" alt="python" width="60" height="60"/> </a> 
@@ -56,4 +54,4 @@ Hello, I am passionate about computer science and I am currently a student in th
 
 ------
 Credit: [MathieuSauva](https://github.com/MathieuSauva) <br>
-Last Edited on: 25/03/22
+Last Edited on: 31/08/22

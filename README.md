@@ -17,8 +17,8 @@ Hello, I am passionate about computer science and I am currently a student in th
 
 <p align='center'><img src='https://www.zupimages.net/up/22/12/ylsd.png' height='200' width='220'></p>
 
-<p><img align=left src="https://github-readme-stats.vercel.app/api?username=SAUVA-Mathieu&show_icons=true&theme=tokyonight" alt="github stats" width="400" /></p>
-<p>&nbsp;<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=SAUVA-Mathieu&theme=tokyonight" alt="mystreak" alt="ovi" width="400" /></p>
+<p><img align=left src="https://github-readme-stats.vercel.app/api?username=SAUVA-Mathieu-2124056aa&show_icons=true&theme=tokyonight" alt="github stats" width="400" /></p>
+<p>&nbsp;<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=SAUVA-Mathieu-2124056aa&theme=tokyonight" alt="mystreak" alt="ovi" width="400" /></p>
 
 <br><br><br><br><br><br><br>
 
@@ -54,4 +54,4 @@ Hello, I am passionate about computer science and I am currently a student in th
 
 ------
 Credit: [MathieuSauva](https://github.com/MathieuSauva) <br>
-Last Edited on: 31/08/22
+Last Edited on: 27/05/2024

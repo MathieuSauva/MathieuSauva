@@ -1,4 +1,4 @@
-![Mathieu Sauva - computer science student](https://github.com/MathieuSauva/MathieuSauva/blob/main/banner.png)
+![Mathieu Sauva - DevSecOps & CyberSecurity learner](https://github.com/MathieuSauva/MathieuSauva/blob/main/images/header.png)
 <h1 align="center">
   welcome ! ✌🏼
 </h1><br/>
@@ -31,12 +31,13 @@ Passionate about computer science and cybersecurity, I am  eager to tackle today
 📫 Reach me on 💬
 </h1><br/>
 
-[<p align='center'><img src='https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white'></p>](mailto:mathieu.sauva@icloud.com)
-
-[<p align='center'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin'></p>](https://www.linkedin.com/in/mathieu-sauva-253415231/)  
+<p align="center">
+   <a href="mailto:mathieu.sauva@icloud.com"><img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a target="_blank"href="https://www.linkedin.com/in/mathieu-sauva-253415231/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <br/>
 
 ------
 Credit: [MathieuSauva](https://github.com/MathieuSauva) <br>
-Last Edited on: 28/02/2025
+Last Edited on: 01/03/2025
